@@ -4,3 +4,10 @@ Steps of Development:
 3. npx create-react-app frontend-react, then npm i @sanity/client @sanity/image-url framer-motion sass react-icons
 4. Create the folders and the files for each section
 5. Creating the Navbar component & styling with scss
+6. Creating the Header component & styling with scss
+7. Creating the About component & styling with scss
+8. Connecting the sanity with the react using sanity/client
+9. Learning how to fetch data from sanity using sanity client
+10. Learning how to implement higher order component(wrapper component)
+11. Creating the Work component, styling with scss & fetching the data from the sanity
+
