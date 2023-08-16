@@ -12,6 +12,9 @@ Steps of Development:
 11. Creating the Work component, styling with scss & fetching the data from the sanity
 12. npm i react-tooltip (but its not working)
 13. Creating the Skills & Experiences Section, styling with scss & fetching the data from the sanity
+14. Creating the Testimonials Section, styling with scss & fetching the data from the sanity
+15. Creating Footer Section, styling with scss & posting the messages from the frontend page to the sanity
+16. Deployment to vercel
 
 
 
