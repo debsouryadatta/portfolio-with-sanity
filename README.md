@@ -10,4 +10,10 @@ Steps of Development:
 9. Learning how to fetch data from sanity using sanity client
 10. Learning how to implement higher order component(wrapper component)
 11. Creating the Work component, styling with scss & fetching the data from the sanity
+12. npm i react-tooltip (but its not working)
+13. Creating the Skills & Experiences Section, styling with scss & fetching the data from the sanity
+
+
+
+npm i --save-dev dotenv (for using .env files in react)
 
